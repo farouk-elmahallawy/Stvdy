@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Stvdy/static/css/main.14f92315.css",
-    "main.js": "/Stvdy/static/js/main.a2d06533.js",
+    "main.css": "/Stvdy/static/css/main.49e5a773.css",
+    "main.js": "/Stvdy/static/js/main.b5aaec00.js",
     "static/js/787.08df99fa.chunk.js": "/Stvdy/static/js/787.08df99fa.chunk.js",
     "static/media/Sans titre-1.png": "/Stvdy/static/media/Sans titre-1.1178d8dc1d13c3296400.png",
+    "static/media/Poppins-Regular.ttf": "/Stvdy/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/Stvdy/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
     "static/media/Rectangle 9.png": "/Stvdy/static/media/Rectangle 9.347bfb7e032bcb20987d.png",
     "static/media/NoPath.png": "/Stvdy/static/media/NoPath.384371ba29766c3f1f56.png",
     "static/media/shutterstock_459775861 (1).png": "/Stvdy/static/media/shutterstock_459775861 (1).6c71168fa21ea0f72b8a.png",
     "static/media/Rectangle 11.png": "/Stvdy/static/media/Rectangle 11.0ee51891fbd2461dab58.png",
     "index.html": "/Stvdy/index.html",
-    "main.14f92315.css.map": "/Stvdy/static/css/main.14f92315.css.map",
-    "main.a2d06533.js.map": "/Stvdy/static/js/main.a2d06533.js.map",
+    "main.49e5a773.css.map": "/Stvdy/static/css/main.49e5a773.css.map",
+    "main.b5aaec00.js.map": "/Stvdy/static/js/main.b5aaec00.js.map",
     "787.08df99fa.chunk.js.map": "/Stvdy/static/js/787.08df99fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14f92315.css",
-    "static/js/main.a2d06533.js"
+    "static/css/main.49e5a773.css",
+    "static/js/main.b5aaec00.js"
   ]
 }
